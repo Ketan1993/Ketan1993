@@ -13,12 +13,10 @@
 </br>
 
 
-- 👨‍🎓  Master student.
 - 👨‍💻 #SelfTaught Developer.
-- 📱 SQL Enthusiast.
-- 📱 ETL Specialist.
-- 👨‍💻 Mostly working on ❤️ Database  ❤️ Oracle 🔥 Python !
-- 🌐 Little bit exploring Data Science too.
+- 📱 Embedded System Specialist.
+- 👨‍💻 Mostly working on ❤️ Embedded C  ❤️ C 🔥 Python !
+- 🌐 Little bit exploring Linux too.
 - Proud 🇮🇳.
 
 ### About Me
