@@ -15,8 +15,8 @@
 
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Embedded System Specialist.
-- 👨‍💻 Mostly working on ❤️ Embedded C  ❤️ C 🔥 Python !
-- 🌐 Little bit exploring Linux too.
+- 👨‍💻 Mostly working on ❤️ Embedded C  ❤️ C 🔥 MCU Driver !
+- 🌐 Little bit exploring Linux and Pyhton too.
 - Proud 🇮🇳.
 
 ### About Me
