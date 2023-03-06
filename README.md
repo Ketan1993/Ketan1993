@@ -26,7 +26,10 @@ I am a coder , and an Embedded Software Developer. I love desing new thing on Em
 Currently I am working on own desing of STM32 MCU Driver, which will help to use most of the Peripheral Protocol very easy.
 
 <h4 align="center">
- ```
-  If you're here please give me stars ⭐ And don't forget to follow.
-```
+      If you're here please give me stars ⭐ And don't forget to follow.
 </h4>
+
+### Connect with me:
+<p align="left" dir="auto">
+<a a rel="noopener" data-link="mailto:kmv1640@gmail.com" href="kmv1640@gmail.com" target="_top"><img align="center" src="img/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
+</p>
