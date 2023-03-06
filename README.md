@@ -29,6 +29,10 @@ Currently I am working on own desing of STM32 MCU Driver, which will help to use
       If you're here please give me stars ⭐ And don't forget to follow.
 </h4>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with me:
 <p align="left" dir="auto">
 <a a rel="noopener" data-link="mailto:kmv1640@gmail.com" href="kmv1640@gmail.com" target="_top"><img align="center" src="img/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
