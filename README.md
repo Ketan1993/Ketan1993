@@ -15,6 +15,7 @@
 
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Embedded System Specialist.
+- Always :battery: For Embedded Coding!
 - 👨‍💻 Mostly working on ❤️ Embedded C  ❤️ C 🔥 MCU Driver !
 - 🌐 Little bit exploring Linux and Pyhton too.
 - Proud 🇮🇳.
