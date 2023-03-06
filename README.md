@@ -3,8 +3,8 @@
 <a href="https://www.github.com/Ketan1993/">
   <img align="left" alt="Ganesh GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/[ganeshkavhar]https://www.linkedin.com/in/ketan-vadodariya-558417ab/">
-  <img align="left" alt="Ganesh LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ketan-vadodariya-558417ab/">
+  <img align="left" alt="Ketan LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
 
 
