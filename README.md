@@ -8,8 +8,6 @@
 </a> 
 
 
-![Profile views](https://gpvc.arturio.dev/Ketan1993)
-
 </br>
 
 
