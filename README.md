@@ -8,9 +8,6 @@
 </a> 
 
 
-</br>
-
-
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Embedded System Specialist.
 - Always :battery: For Embedded Coding!
