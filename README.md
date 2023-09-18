@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/ketan-vadodariya-558417ab/">
   <img align="left" alt="Ketan LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
-
-
+</br>
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Embedded System Specialist.
 - Always :battery: For Embedded Coding!
