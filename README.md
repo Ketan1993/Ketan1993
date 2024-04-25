@@ -9,7 +9,7 @@
   <img align="left" alt="Ketan LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
 
-</br>
+</br></br>
 
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Embedded System Specialist.
